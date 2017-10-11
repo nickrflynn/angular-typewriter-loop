@@ -1,0 +1,17 @@
+{
+  "name": "angular-typewriter-loop",
+  "version": "1.0.0",
+  "description": "Directive for looping (typing and deleting) typewriter effect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular4",
+    "typewriter"
+  ],
+  "author": "Nick Flynn",
+  "license": "ISC"
+}
